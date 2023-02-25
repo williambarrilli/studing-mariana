@@ -1,0 +1,21 @@
+.container {
+  background-color: rgb(202, 8, 8);
+  display: flex;
+  height: 50px;
+}
+
+.menu-itens {
+  display: flex;
+  align-items: center;
+}
+
+h1 {
+  margin-left: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+.container-image {
+  width: 50px;
+  height: 50px;
+}
